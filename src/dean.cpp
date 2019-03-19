@@ -89,9 +89,12 @@ void Deanery::GetStatistic(std::ostream* stream)
 bool Deanery::TransferStudentToGroup(int id, string grouptitle)
 {
     Group* oldgroup = nullptr;
-    for (Student* student:students)
+    Student* student = nullptr;
+
+    for (Group* group:groups)
     {
-        if (student->getId() == id)
+        student = group->FindStudent(id);
+        if (student != nullptr)
         {
             oldgroup = student->getGroup();
             oldgroup->ExcludeStudent(student);

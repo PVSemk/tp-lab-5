@@ -1,6 +1,6 @@
 
 GROUP TITLE: 17ПМИ-1
-HEAD: Пыхтина Клара Сократовна
+HEAD: Усоева Татьяна Брониславовна
 
 ID: 5 FIO: Кимаск Рубен Андроникович Average Mark: 6.25 Group: 17ПМИ-1
 ID: 12 FIO: Янкилевский Григорий Изяславович Average Mark: 6.25 Group: 17ПМИ-1
@@ -23,7 +23,7 @@ ID: 34 FIO: Ящина Юнона Валерьевна Average Mark: 5.875 Group
 AVERAGE IN GROUP: 5.825
 
 GROUP TITLE: 17ПМИ-3
-HEAD: Романенко Прохор Тихонович
+HEAD: Эвентов Аким Глебович
 
 ID: 0 FIO: Эвентов Аким Глебович Average Mark: 5.75 Group: 17ПМИ-3
 ID: 2 FIO: Осинцев Феофан Никонович Average Mark: 6.125 Group: 17ПМИ-3
