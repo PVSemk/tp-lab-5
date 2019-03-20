@@ -19,5 +19,6 @@ public:
     void ExcludeStudent();
     void SaveData();
     void ChooseHeads();
+    ~Deanery();
 };
 #endif //TASK1_DEANERY_H

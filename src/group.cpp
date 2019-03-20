@@ -1,5 +1,7 @@
 #include "group.h"
 
+#include <ctime>
+
 Group::Group(string title): title(title)
 {
     head = nullptr;

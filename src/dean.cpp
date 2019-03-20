@@ -120,3 +120,12 @@ void Deanery::SaveData()
 
     fout.close();
 }
+
+Deanery::~Deanery()
+{
+    for (Student* student:students)
+        delete student;
+    for (Group* group:groups)
+        delete group;
+}
+
